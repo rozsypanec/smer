@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="every_interval" id="3s_a3=~-sX7O6X_Jyea@" x="0" y="0"><value name="interval"><shadow type="longTimePicker" id="kDD??(}h+kVuJtb.qyf9"><field name="ms">100</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="AS1nLdFe0eNYcuLww-Oi"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="w8i`h,:u7k]G(DlY^tC4"><value name="pause"><shadow type="timePicker" id="d_G1K%Qo?07*f%C6x*G="><field name="ms">2000</field></shadow></value><next><block type="device_clear_display" id="1iPzG,Mo$KH[K3rdcDwN"><next><block type="device_show_number" id="sP;_x,Jndg%v28`uty;."><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_random" id="%Ntnb$ulQkqj_([RSUCy"><value name="min"><shadow type="math_number" id="j7?jQjsD.ig1lg`5R?/P"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="s6%@;GfjsFN#piwanV5-"><field name="NUM">100</field></shadow></value></block></value></block></next></block></next></block></next></block></statement></block></xml>
